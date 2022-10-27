@@ -6,6 +6,6 @@ This is done by using the API to find the currency exchange rates for each day i
 </span></p>
 
 
-![image description](TOP_Daily-Sales_in_UK_shop_January_2017.png)
+<img src="TOP_Daily-Sales_in_UK_shop_January_2017.png" width="128"/>
 
 <img src="UK_Reginal_Sales_in_EURO_for_January_2017.png" width="128"/>
