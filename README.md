@@ -1,10 +1,18 @@
-# <p style="font-family:verdana"> <span style='color: #138d75' >Using API to request historical daily currency exchange to make unified sales reports for international companies. </span></p><p style="font-family:'Courier New'"><span style='color: #138d75' >
+# <p style="font-family:verdana"> <span style='color: #138d75' > Data Visulization for Int'l company : Using API to get Foreign Exchange</span></p><p style="font-family:'Courier New'"><span style='color: #138d75' >
   
-When doing data analysis, it is normal to work with historical data. Therefore, historical months, including specific dates, need to be converted into a single currency for each country, so that shareholders can analyse how much the company has sold overall. Compare sales by region. This makes it easier for shareholders to analyse the overall sales of the company.
+This is an exercise in data visualisation and analysis of reports. It was inspired by a question posed by the interviewer: What do you need to look for when you make a report for the shareholders of an international company? My answer was certainly not the answer the interviewer was expecting and I don't remember what I said. Anyway, the point was that we needed to give the shareholders a uniform currency report. That is, he needed to know how many euros his company's total worldwide sales were in?
 
-This is done by using the API to find the currency exchange rates for each day in the past and then multiplying them by the amount of sales in the foreign region using the uniform currency of the report, e.g. euro. The result is that all sales in the report are in the same currency.
+So, any other Eurozone sales, we need to use the API to get the historical Euro foreign exchange rate. We then convert all foreign sales into Euros at the prevailing foreign exchange rate accordingly for reporting purposes. This will allow shareholders to make decisions and understand the company's operating performance.
 </span></p>
 
+![image description](UK_Reginal_Sales_in_EURO_for_January_2017.png)
 
 ![image description](TOP_Daily-Sales_in_UK_shop_January_2017.png)
-![image description](UK_Reginal_Sales_in_EURO_for_January_2017.png)
+
+
+visualization made with Tableau:
+
+![image description](dashboard_sales report januar 2017 uk region .png)
+![image description](Daily-Sales_in_UK_shop_January_2017.png)
+![image description](UNumber of daily proceed orderse.png)
+![image description](Total quantity sold in January 2017.png)
