@@ -16,3 +16,5 @@ visualization made with Tableau:
 ![image description](Daily-Sales_in_UK_shop_January_2017.png)
 ![image description](UNumber of daily proceed orderse.png)
 ![image description](Total quantity sold in January 2017.png)
+![image description](dashboard_sales report januar 2017 uk region .png)
+
