@@ -4,3 +4,8 @@ When doing data analysis, it is normal to work with historical data. Therefore, 
 
 This is done by using the API to find the currency exchange rates for each day in the past and then multiplying them by the amount of sales in the foreign region using the uniform currency of the report, e.g. euro. The result is that all sales in the report are in the same currency.
 </span></p>
+
+
+![image description](TOP_Daily-Sales_in_UK_shop_January_2017.png)
+
+<img src="UK_Reginal_Sales_in_EURO_for_January_2017.png" width="128"/>
