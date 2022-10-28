@@ -5,25 +5,25 @@ This is an exercise in data visualisation and analysis of reports. It was inspir
 So, any other Eurozone sales, we need to use the API to get the historical Euro foreign exchange rate. We then convert all foreign sales into Euros at the prevailing foreign exchange rate accordingly for reporting purposes. This will allow shareholders to make decisions and understand the company's operating performance.
 </span></p>
 
-![image description](UK_Reginal_Sales_in_EURO_for_January_2017.png)
+![image description](7_UK_Reginal_Sales_in_EURO_for_January_2017.png)
 
-![image description](TOP_Daily-Sales_in_UK_shop_January_2017.png)
+![image description](6_TOP_Daily-Sales_in_UK_shop_January_2017.png)
 
 
 visualization made with Tableau: Dashboard 
 
-![image description](dashboard_sales_report_januar_2017_uk_region.png)
+![image description](2_dashboard_sales_report_januar_2017_uk_region.png)
 
 It looks like at the end of the month, the sales boosts up. 
 
-![image description](Daily-Sales_in_UK_shop_January_2017.png)
+![image description](1_Daily-Sales_in_UK_shop_January_2017.png)
 
 We can see, in the UK shop, they proceed everyday averagely 200 orders. 
 And remember these are the completed orders. They are open orders excluded in this report.
 The sales reports for all orders typees(open, completed,cancelled , paused.etc will come later)
-![image description](Number_of_daily_proceed_orders.png)
+![image description](4_Number_of_daily_proceed_orders.png)
 
 
 Ths is the big numbers the stateholders want to know at all of the first. Agree with me?  : ) 
-![image description](Total_quantity_sold_in_January_2017.png)
+![image description](5_Total_quantity_sold_in_January_2017.png)
 
