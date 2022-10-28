@@ -22,7 +22,7 @@ It looks like at the end of the month, the sales boosts up.
 We can see, in the UK shop, they proceed everyday averagely 200 orders. 
 And remember these are the completed orders. They are open orders excluded in this report.
 The sales reports for all orders typees(open, completed,cancelled , paused.etc will come later)
-![image description](4_Number_of_daily_proceed_orders.png)
+![image description](4_Number_of_daily_proceed_orderse.png)
 
 
 Ths is the big numbers the stateholders want to know at all of the first. Agree with me?  : ) 
