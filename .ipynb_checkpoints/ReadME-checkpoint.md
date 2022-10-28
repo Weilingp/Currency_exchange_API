@@ -10,11 +10,20 @@ So, any other Eurozone sales, we need to use the API to get the historical Euro 
 ![image description](TOP_Daily-Sales_in_UK_shop_January_2017.png)
 
 
-visualization made with Tableau:
+visualization made with Tableau: Dashboard 
 
 ![image description](dashboard_sales_report_januar_2017_uk_region.png)
+
+It looks like at the end of the month, the sales boosts up. 
+
 ![image description](Daily-Sales_in_UK_shop_January_2017.png)
+
+We can see, in the UK shop, they proceed everyday averagely 200 orders. 
+And remember these are the completed orders. They are open orders excluded in this report.
+The sales reports for all orders typees(open, completed,cancelled , paused.etc will come later)
 ![image description](Number_of_daily_proceed_orders.png)
+
+
+Ths is the big numbers the stateholders want to know at all of the first. Agree with me?  : ) 
 ![image description](Total_quantity_sold_in_January_2017.png)
-![image description](dashboard_sales_report_januar_2017_ uk_region.png)
 
